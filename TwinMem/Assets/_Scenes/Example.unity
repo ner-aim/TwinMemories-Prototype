@@ -4192,6 +4192,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Name: 
   m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Name: 
+  m_EditorClassIdentifier: 
   profile: {fileID: 11400000, guid: bc7ef57070e716341add7384478da609, type: 2}
 --- !u!4 &1730976881 stripped
 Transform:
