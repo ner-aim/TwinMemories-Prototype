@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5119723251614523459}
   m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-  m_LocalPosition: {x: -0, y: -0.0033217564, z: 0}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -107,9 +107,11 @@ SkinnedMeshRenderer:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 0}
   m_AABB:
-    m_Center: {x: -0.09355736, y: 0.342488, z: -0.035874046}
-    m_Extent: {x: 0.31904346, y: 0.3643669, z: 0.17664474}
+    m_Center: {x: -0.10279182, y: 0.35653156, z: 0.005986698}
+    m_Extent: {x: 0.3194022, y: 0.35279697, z: 0.23153347}
   m_DirtyAABB: 0

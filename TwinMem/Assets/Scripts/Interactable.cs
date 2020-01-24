@@ -11,7 +11,7 @@ public class Interactable : MonoBehaviour
     public virtual void Interact()
     {
         //to be overwritten
-        Debug.Log("Interacting with " + _transform.name);
+        //Debug.Log("Interacting with " + _transform.name);
     }
 
     public void onFocused(Transform playerTransform)
